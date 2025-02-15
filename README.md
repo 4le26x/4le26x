@@ -36,6 +36,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ---
 
 ## 📂 Featured Projects
+
+### 🔹 <img src="https://cdn-icons-png.flaticon.com/512/12140/12140367.png" width="20"> [Vulnerability Management Program Implementation](https://github.com/4le26x/Vulnerability-Management-Program/tree/main?tab=readme-ov-file)
+- Simulated the end-to-end implementation of a Vulnerability Management Program.
+
+- Utilized Tenable for vulnerability scanning, Azure VMs as scan targets, and PowerShell/BASH for automation.
+
 ### 🔹 <img src="https://static-00.iconduck.com/assets.00/azure-active-directory-aad-icon-1951x2048-2rv1xjcr.png" width="20"> [ActiveAttack - Active Directory Exploitation](https://alejandros-organization-8.gitbook.io/active/school-final-project)
 - Simulated **real-world AD attacks** using techniques like **LLMNR Poisoning, SMB Relay, and NTLM attacks**.
 - Conducted **post-exploitation techniques** and **privilege escalation** in a Windows environment.
