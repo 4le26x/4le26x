@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/alejandro-perez-hernandez-28158a120/">Alejandro Perez Hernandez</a>'s Cybersecurity Project Portfolio 🔐
+# <img src="https://cdn-icons-png.flaticon.com/512/1509/1509638.png" width="50"><a href="https://www.linkedin.com/in/alejandro-perez-hernandez-28158a120/">Alejandro Perez Hernandez</a>'s Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -36,6 +36,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ---
 
 ## 📂 Featured Projects
+
+
+### 🔹 <img src="https://cdn-icons-png.flaticon.com/512/2157/2157645.png" width="20"> [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/4le26x/threat-hunting-scenario-tor)
+- Investigated unauthorized **TOR browser usage** using **Microsoft Defender for Endpoint** and **KQL**.  
+- Detected **TOR installation, execution, and network activity** on **port 9150**, confirming active usage.  
+- **Response:** Isolated the affected workstation and reported findings to **management**.  
 
 ### 🔹 <img src="https://cdn-icons-png.flaticon.com/512/12140/12140367.png" width="20"> [Vulnerability Management Program Implementation](https://github.com/4le26x/Vulnerability-Management-Program/tree/main?tab=readme-ov-file)
 - Simulated the end-to-end implementation of a Vulnerability Management Program.
