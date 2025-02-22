@@ -38,6 +38,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 📂 Featured Projects
 
 
+### 🔹 <img src="https://cdn-icons-png.flaticon.com/512/12211/12211109.png" width="20"> [Threat Hunt Report: Unauthorized Credential Dumping with LaZagne](https://github.com/4le26x/threat-hunting-scenario-LaZagne)
+- Conducted an **investigation on unauthorized credential dumping** using **Microsoft Defender for Endpoint** and **KQL**.
+- Identified **LaZagne-related activities**, including its **download, execution, and credential exfiltration** via **certutil.exe** and **curl.exe**.
+- **Incident Response Actions:** Isolated the affected system, reset compromised accounts, and enforced **EDR policies** to detect similar threats proactively.
+
 ### 🔹 <img src="https://cdn-icons-png.flaticon.com/512/2157/2157645.png" width="20"> [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/4le26x/threat-hunting-scenario-tor)
 - Investigated unauthorized **TOR browser usage** using **Microsoft Defender for Endpoint** and **KQL**.  
 - Detected **TOR installation, execution, and network activity** on **port 9150**, confirming active usage.  
